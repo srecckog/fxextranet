@@ -23,7 +23,7 @@ public partial class Report3 : System.Web.UI.Page
         }
                
     }
-
+    //
 
     // click on datagridview, evidencija normi
     protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
